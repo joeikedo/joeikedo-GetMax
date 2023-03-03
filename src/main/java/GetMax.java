@@ -10,7 +10,7 @@ public class GetMax {
         int max = arr[0];
         for(int element : arr){
             if(element > max){
-                max = element;
+                max = element; //comment to commit
             }
         }
         
